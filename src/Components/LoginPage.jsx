@@ -79,10 +79,6 @@ info@emp360.it.co.in
        />
      </div>
 
-     {/* <div>
-      Forgot Password ?
-     </div> */}
-
 
      <Link to="dash">
      <button type="submit"  className="btn btn-primary">Login</button>
@@ -93,16 +89,7 @@ info@emp360.it.co.in
  </div>
 
 
-
-
-</div>
-   
-   
-   
-   
-   
-   
-   
+</div> 
    
    </>
    
